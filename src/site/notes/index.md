@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/index/","dg-note-properties":{"permalink":"/index/"}}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
